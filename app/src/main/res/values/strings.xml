@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">exempleSpinner</string>
+    <string-array name="govarnorates">
+        <item> Bizerte </item>
+        <item> Jendouba </item>
+        <item> Tunis </item>
+        <item> Beja </item>
+        <item> Sfax </item>
+        <item> Sousse </item>
+        <item> Kef </item>
+        <item> Manouba </item>
+
+    </string-array>
+
+</resources>
